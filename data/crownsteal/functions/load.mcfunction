@@ -1,0 +1,2 @@
+function crownsteal:objectives
+function crownsteal:version

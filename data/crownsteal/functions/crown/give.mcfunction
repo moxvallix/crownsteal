@@ -1,0 +1,1 @@
+give @s golden_helmet{display:{Name:'{"text":"The King\'s Crown","color":"gold","bold":true,"italic":false}'},Unbreakable:1b,crownsteal:{crown:true},Enchantments:[{}],AttributeModifiers:[{AttributeName:"generic.max_health",Name:"generic.max_health",Amount:20,Operation:0,UUID:[I;-437552348,-866236747,-1908528661,-986268393],Slot:"head"}]} 1

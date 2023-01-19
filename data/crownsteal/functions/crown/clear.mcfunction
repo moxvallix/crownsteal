@@ -1,0 +1,1 @@
+clear @a minecraft:golden_helmet{crownsteal:{crown:true}}

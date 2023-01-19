@@ -1,0 +1,1 @@
+title @a title [{"text":"All Hail ","color":"gold"},{"selector":"@a[team=crownsteal.king,limit=1]","color":"gold"},{"text": "!"}]
